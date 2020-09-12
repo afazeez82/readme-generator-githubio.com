@@ -1,0 +1,25 @@
+{
+    "name": "readme-generator",
+    "version": "1.0.0",
+    "description": "A command-line application that dynamically generates a README file from a user's input",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/afazeez82/readme-generator-githubio.com"
+      
+    },
+    "author": "Anees Azeez",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/afazeez82/readme-generator-githubio.com/issues"
+    },
+    "homepage": "https://github.com/afazeez82/readme-generator-githubio.com/readme",
+    "dependencies": {
+      "axios": "^0.19.2",
+      "inquirer": "^7.0.5"
+    }
+  }
+  
